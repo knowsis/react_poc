@@ -18,7 +18,7 @@ cover
 git_hash
 *.scssc
 *.css.map
-social_insights/static/compressed
-social_insights/static/css/all-styles.css
 
-social_insights/static/css/all-styles.css.map
+node_modules/*
+**/.module-cache/*
+*.sqlite3
